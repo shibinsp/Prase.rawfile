@@ -1,0 +1,18 @@
+0, 50.0, 30 / PowerFactory RAW File
+Converted from example_input.txt on 2025-10-06 14:37:19
+Base frequency: 50.000 Hz
+
+/BUS DATA
+0 / End of Bus Data
+
+/LOAD DATA
+0 / End of Load Data
+
+/GENERATOR DATA
+0 / End of Generator Data
+
+/BRANCH DATA
+0 / End of Branch Data
+
+/TRANSFORMER DATA
+0 / End of Transformer Data

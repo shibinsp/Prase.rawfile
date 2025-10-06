@@ -1,0 +1,33 @@
+# EMS to PowerFactory Converter Requirements
+# Install with: pip install -r requirements.txt
+
+# Core data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Excel file generation
+openpyxl>=3.0.0
+
+# JSON processing (built-in, but specifying for completeness)
+# json - part of Python standard library
+
+# Date/time handling (built-in, but specifying for completeness)
+# datetime - part of Python standard library
+
+# Regular expressions (built-in, but specifying for completeness)
+# re - part of Python standard library
+
+# Path handling (built-in, but specifying for completeness)
+# pathlib - part of Python standard library
+
+# Type hints (built-in, but specifying for completeness)
+# typing - part of Python standard library
+
+# Data classes (built-in for Python 3.7+, but specifying for completeness)
+# dataclasses - part of Python standard library for Python 3.7+
+
+# Argument parsing (built-in, but specifying for completeness)
+# argparse - part of Python standard library
+
+# Logging (built-in, but specifying for completeness)
+# logging - part of Python standard library

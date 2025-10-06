@@ -1,0 +1,39 @@
+{
+  "conversion_info": {
+    "source_file": "example_input.txt",
+    "conversion_date": "2025-10-06T14:37:19.178379",
+    "converter_version": "2.0.0",
+    "base_frequency": 50.0,
+    "system_name": "EMS Power System",
+    "description": "Converted from EMS system format"
+  },
+  "statistics": {
+    "total_buses": 0,
+    "total_transformers": 0,
+    "total_generators": 0,
+    "total_loads": 0,
+    "total_branches": 0,
+    "voltage_levels": [],
+    "areas": [],
+    "zones": [],
+    "total_generation_capacity_mva": 0,
+    "total_load_demand_mw": 0
+  },
+  "brand_data": {
+    "transformers": {},
+    "generators": {},
+    "switchgear": {},
+    "protection_devices": {}
+  },
+  "equipment_data": {
+    "transformer_models": [],
+    "generator_models": [],
+    "conductor_types": [],
+    "tower_types": []
+  },
+  "detailed_equipment": {
+    "transformers": [],
+    "generators": [],
+    "buses": []
+  }
+}
